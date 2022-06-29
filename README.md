@@ -1,3 +1,4 @@
 # PING-PONG-GAME
 Ping Pong Game using Java and Java Swing for GUI and Animation.
-![Screenshot (57)](https://user-images.githubusercontent.com/70106103/176349934-c950a9db-ce68-4221-be24-7635ab45cd48.png)
+![PINGPONG](https://user-images.githubusercontent.com/70106103/176351221-2c6b392d-41f8-4dfe-bb3e-f7e314746c72.png)
+
