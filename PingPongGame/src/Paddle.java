@@ -9,7 +9,7 @@ public class Paddle extends Rectangle {
 	
 	int id;
 	int yVelocity; //Velocity for How fast paddle is moving up and down when we press a button
-	int speed = 10;
+	int speed = 12;
 	
 	
 	
